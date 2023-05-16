@@ -1,5 +1,3 @@
-/** @format */
-
 const { ctrlWrapper } = require("../helpers");
 const { httpError } = require("../helpers");
 const { Contact } = require("../models/contact");

@@ -1,5 +1,3 @@
-/** @format */
-
 const ctrlWrapper = require("./ctrlWrapper");
 
 const httpError = require("./httpError");

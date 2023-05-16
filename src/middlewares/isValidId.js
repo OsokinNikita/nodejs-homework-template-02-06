@@ -1,5 +1,3 @@
-/** @format */
-
 const { isValidObjectId } = require("mongoose");
 
 const { httpError } = require("../helpers");
