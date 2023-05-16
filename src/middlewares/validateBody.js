@@ -1,3 +1,5 @@
+/** @format */
+
 const { httpError } = require("../helpers");
 
 const validateBody = (schema) => {
